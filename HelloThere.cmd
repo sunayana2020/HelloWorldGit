@@ -1,2 +1,3 @@
-Hello There.
-Testing Git Build Run
+@ECHO OFF
+ECHO Congratulations! Your first batch file executed successfully.
+PAUSE
